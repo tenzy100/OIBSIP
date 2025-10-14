@@ -1,0 +1,17 @@
+# Chat Application Requirements
+# All dependencies are Python standard library modules
+# No external packages required!
+
+# Core Python modules used:
+# - socket (networking)
+# - threading (concurrent connections)
+# - tkinter (GUI framework)
+# - sqlite3 (database)
+# - json (data serialization)
+# - hashlib (password hashing)
+# - base64 (file encoding)
+# - os, sys, time, datetime (system utilities)
+# - pathlib (path handling)
+
+# Tested with Python 3.7+
+# No additional installation required
