@@ -1,0 +1,38 @@
+{
+    "tenzin": [
+        {
+            "date": "2025-10-15 09:33:15",
+            "weight": 81.0,
+            "height": 178.0,
+            "bmi": 25.56,
+            "category": "Overweight"
+        }
+    ],
+    "dhanush": [
+        {
+            "date": "2025-10-15 09:33:31",
+            "weight": 77.0,
+            "height": 185.0,
+            "bmi": 22.5,
+            "category": "Normal weight"
+        }
+    ],
+    "sunil reddy j": [
+        {
+            "date": "2025-10-15 09:33:52",
+            "weight": 60.0,
+            "height": 181.0,
+            "bmi": 18.31,
+            "category": "Underweight"
+        }
+    ],
+    "kenda": [
+        {
+            "date": "2025-10-15 09:34:15",
+            "weight": 93.0,
+            "height": 183.0,
+            "bmi": 27.77,
+            "category": "Overweight"
+        }
+    ]
+}
